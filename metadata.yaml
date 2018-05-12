@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 38904-h/images/covers.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38904#Our-Flowering-Shrubs-and-How-to-Know-Them
 gutenberg_issued: '2012-02-16'
 gutenberg_type: Text
 identifiers:
