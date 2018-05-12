@@ -1,0 +1,28 @@
+_repo: Our-Flowering-Shrubs-and-How-to-Know-Them_38904
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Smith, William
+    gutenberg_agent_id: '40470'
+    url: http://www.gutenberg.org/2009/agents/40470
+  illustrator:
+    agent_name: Kirk, Charles
+    gutenberg_agent_id: '39707'
+    url: http://www.gutenberg.org/2009/agents/39707
+covers:
+- cover_type: archival
+  image_path: 38904-h/images/covers.jpg
+description: ''
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Shrubs -- Great Britain -- Identification -- Pictorial works'
+title: Our Flowering Shrubs, and How to Know Them
+url: http://www.gutenberg.org/ebooks/38904
